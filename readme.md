@@ -10,4 +10,4 @@ Production-ready infrastructure as code for deploying a secure web server on Goo
 ## Usage
 1. Clone repository:
    ```bash
-   git clone https://github.com/your-username/terraform-gcp-web-server.git# terraform-gcp-web-server
+   git clone https://github.com/therealdillz/terraform-gcp-web-server
